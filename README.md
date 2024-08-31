@@ -8,7 +8,7 @@ GEMINI: Here’s a revised version of your bio:
 
 💞️ I’m open to collaborating on projects related to sentiment analysis, chatbot development, or predictive modeling.
 
-📫 Reach out to me at marcelo.felipe@email.com
+📫 Reach out to me at https://marocero2016.blogspot.com/
 
 😄 Pronouns: he/him
 
