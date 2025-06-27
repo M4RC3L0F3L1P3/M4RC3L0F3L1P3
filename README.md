@@ -1,5 +1,3 @@
-GEMINI: Here’s a revised version of your bio:
-
 👋 Hi, I’m @M4RC3L0F3L1P3
 
 👀 I’m passionate about data science and exploring the intersection of machine learning and natural language processing.
